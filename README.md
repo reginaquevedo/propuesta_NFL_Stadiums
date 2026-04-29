@@ -1,4 +1,4 @@
-# propuesta_NFL_Stadiums
+# propuesta_NFL_Stadiums:
 
 La base de datos NFL Stadium Attendance contiene información sobre la asistencia a los estadios de la NFL a lo largo de múltiples temporadas. Está compuesto por 3 tablas principales: games, attendance y standings, las cuales se pueden relacionar con los atributos team, year y week. 
 
